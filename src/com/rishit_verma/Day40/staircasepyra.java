@@ -1,4 +1,4 @@
-package com.rishit_verma;
+package com.rishit_verma.Day40;
 import java.util.*;
 public class staircasepyra {
     public static void main(String args[]) {
